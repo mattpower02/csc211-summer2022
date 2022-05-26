@@ -12,8 +12,8 @@
 | --- | --- | --- |--- |
 |Monday    |   Arlen <br> Libby |   4p - 5p <br> 4p - 5p   |   In-person <br> In-person  |
 |Tuesday   |   Arlen <br> Libby |  9a - 11a <br> 9a - 11a |    In-person <br> In-person 
-|Wednesday |    Arlen <br> Libby |  9a - 11a <br> 9a - 11a |    In-person <br> In-person| 
-|Thursday  |   Arlen <br> Libby   |  9a - 10a <br>10a - 12p   |  In-person <br> In-person  |
+|Wednesday |    Arlen <br> Libby |  4p - 5p <br> 4p - 5p |    In-person <br> In-person| 
+|Thursday  |   Arlen <br> Libby   |  9a - 11a <br>9a - 11p   |  In-person <br> In-person  |
 
 **Discussion Session**
 > Attending 80% of discussion sessions will earn you an additional 5pts on your final exam.
