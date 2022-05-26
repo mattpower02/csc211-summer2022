@@ -20,8 +20,8 @@
 
 | Day | Staff Member | Time | Modality | Location |
 | --- | --- | --- | --- | --- |
-| Tuesday | Arlen | 4p - 5p | In-person | Tyler 049 |
-| Thursday | Libby | 4p - 5p | In-person | Tyler 049 |
+| Tuesday | Arlen | 4p - 5p | In-person | Ballentine 102 |
+| Thursday | Libby | 4p - 5p | In-person | Ballentine 102 |
 
 
 **Lab**
