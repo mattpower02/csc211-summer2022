@@ -21,7 +21,7 @@
 | Day | Staff Member | Time | Modality | Location |
 | --- | --- | --- | --- | --- |
 | Tuesday | Arlen | 4p - 5p | In-person | Ballentine 102 |
-| Thursday | Libby | 4p - 5p | In-person | [Zoom](https://uri-edu.zoom.us/j/94562732123?pwd=bFVtZDI4aHluY0lWdDFZVkwxc3dBZz09) |
+| Thursday | Libby | 4p - 5p | Online | [Zoom](https://uri-edu.zoom.us/j/94562732123?pwd=bFVtZDI4aHluY0lWdDFZVkwxc3dBZz09) |
 
 
 **Lab**
