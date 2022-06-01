@@ -12,7 +12,7 @@
 | --- | --- | --- |--- |
 |Monday    |   Arlen <br> Libby |   4p - 5p <br> 4p - 5p   |   In-person <br> In-person  |
 |Tuesday   |   Arlen <br> Libby |  9a - 11a <br> 9a - 11a |    In-person <br> In-person 
-|Wednesday |    Arlen <br> Libby |  4p - 5p <br> 4p - 5p |    [Zoom](https://uri-edu.zoom.us/j/9554231695?pwd=Ly84TlpkdllzMXA1VVQ5NXVJV3lDQT09) <br> [Zoom](https://uri-edu.zoom.us/j/94562732123?pwd=bFVtZDI4aHluY0lWdDFZVkwxc3dBZz09)
+|Wednesday |    Arlen <br> Libby |  4p - 5p <br> 4p - 5p |    [Zoom](https://uri-edu.zoom.us/j/9554231695?pwd=Ly84TlpkdllzMXA1VVQ5NXVJV3lDQT09) <br> [Zoom](https://uri-edu.zoom.us/j/9554231695?pwd=Ly84TlpkdllzMXA1VVQ5NXVJV3lDQT09)
 |Thursday  |   Arlen <br> Libby   |  9a - 11a <br>9a - 11p   |  In-person <br> In-person  |
 
 **Discussion Session**
@@ -21,7 +21,7 @@
 | Day | Staff Member | Time | Modality | Location |
 | --- | --- | --- | --- | --- |
 | Tuesday | Arlen | 4p - 5p | In-person | Ballentine 102 |
-| Thursday | Libby | 4p - 5p | In-person | [Zoom](https://uri-edu.zoom.us/j/94562732123?pwd=bFVtZDI4aHluY0lWdDFZVkwxc3dBZz09) |
+| Thursday | Libby | 4p - 5p | Online | [Zoom](https://uri-edu.zoom.us/j/94562732123?pwd=bFVtZDI4aHluY0lWdDFZVkwxc3dBZz09) |
 
 
 **Lab**
