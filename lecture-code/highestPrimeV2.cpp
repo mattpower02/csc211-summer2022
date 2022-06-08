@@ -2,7 +2,8 @@
 
 bool isPrime(int someNum){
     
-    for(int i = 1; i < someNum/2; i++){
+    for(int i = 2; i < someNum; i++){
+
         if(someNum % i == 0){
             return false;
         }
@@ -15,8 +16,8 @@ int highestPrime(int someNum){
 
     int myPrime = 0;
 
-    for(int i = someNum; i > 2; i--){
-
+    for(int i = someNum; i > 1; i--){
+        
         if(isPrime(i)){
             myPrime = i;
             break;
@@ -30,7 +31,8 @@ int highestPrime(int someNum){
 
 int main(){
 
-    std::cout << highestPrime(4);
+
+    std::cout << highestPrime(10);
 
     return 0;
 }
