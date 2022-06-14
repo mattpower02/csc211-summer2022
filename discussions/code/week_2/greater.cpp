@@ -26,17 +26,13 @@ int main(int argc, char* argv[]){
     // Alternitaive to the code above
     // Arguments are stored in an argument vector and can be taken directly from that
     // be mindful that arguments will always be stored as characters in the argument vector
-
     // it's good to always have some form of error handling when working with argv
     if(argc != 3){
-
         // this just prints to standard error
         fprintf(stderr, "Proper usage: num1 num2 \n");
-
         // upon failure, exit out of the program
         exit(1);
     }
-
     // convert our char arguments to ints
     // std:atoi() also works, but it's less safe
     int numOne = std::stoi(argv[1]);
