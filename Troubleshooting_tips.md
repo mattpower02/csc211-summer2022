@@ -12,7 +12,7 @@
       - If you name your variables ‘a’, ‘b’, and ‘c’, you’ll need to change them to something meaningful before asking for help 
     - Remember that you must identify the type of a variable as you define it 
   
-3.Make sure that your functions make sense
+3. Make sure that your functions make sense
     - All functions need a retutn type
       - additionally, all funtion paramaters will need their types defined 
     - As a general rule of thumb, keep your names consistent when passing variables between functions
