@@ -8,14 +8,14 @@
  - [ ] Make a list of the steps you’ve taken to show your TA
 
 ## If you have started coding:
-### If you’re getting an error:
+### If you ARE getting an error:
  - [ ] Have you run your program locally through CS50 with multiple test cases?
  - [ ] Have you checked [common troubleshooting tips](https://github.com/mikeconti/csc211-summer2022/blob/main/Troubleshooting_tips.md)?
  - [ ] Have you checked the lines directly before where the error has occurred on?
  - [ ] Have you tried looking up the error?
  - [ ] Make a list of the steps you’ve taken to show your TA
 
-### If you’re not getting an error:
+### If you AREN'T not getting an error:
  - [ ] Have you submitted your assignment through GradeScope?
  - [ ] Have you hand-checked the logic of your conditionals/ loops?
  - [ ] Have you re-read the assignment handout and made sure you’re including every part of the assignment?
