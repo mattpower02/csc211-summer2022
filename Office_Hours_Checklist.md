@@ -15,7 +15,7 @@
  - [ ] Have you tried looking up the error?
  - [ ] Make a list of the steps you’ve taken to show your TA
 
-### If you AREN'T not getting an error:
+### If you ARE NOT getting an error:
  - [ ] Have you submitted your assignment through GradeScope?
  - [ ] Have you hand-checked the logic of your conditionals/ loops?
  - [ ] Have you re-read the assignment handout and made sure you’re including every part of the assignment?
