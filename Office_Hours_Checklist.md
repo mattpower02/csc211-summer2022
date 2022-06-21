@@ -3,7 +3,7 @@
 ## If you have NOT started coding:
  - [ ] Have you read through each part of the assignment handout?
  - [ ] Have you written anything down? (Pseudocode, diagrams, or notes)
- - [ ] What questions do you have about the premise of the assignment?
+ - [ ] **What questions do you have about the premise of the assignment?**
  - [ ] If you have questions about how to begin coding, have you referenced the lectures and lab for this week?
  - [ ] Make a list of the steps you’ve taken to show your TA
 
